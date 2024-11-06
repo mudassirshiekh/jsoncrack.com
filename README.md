@@ -1,4 +1,5 @@
 <!-- PROJECT LOGO -->
+#By Mudassir Alam
 <p align="center">
   <a href="https://github.com/AykutSarac/jsoncrack.com">
    <img src="./public/assets/logo.svg" height="50" alt="Logo">
